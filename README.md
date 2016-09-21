@@ -1,6 +1,6 @@
 # Troubleshooting IDE and other Technical Issues
 
-As we're building the Learn IDE and improving on it as we go, we run into all sorts of issues with it. We've done a great job an cataloging issues and fixes (we hope you can help us with this as well!).
+As we're building the Learn IDE and improving on it as we go, we run into all sorts of issues with it. We've done a great job on cataloging issues and fixes (we hope you can help us with this as well!).
 
 ## Filing Issues
 
