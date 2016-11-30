@@ -14,7 +14,7 @@ There are some common issues we see with the Learn IDE. Here they are in a broad
 
 ### User sees something different in the Learn IDE terminal than in the file tree
 
-This is usually a syncing issues. The lab probably cloned down properly to the Learn server, but didn't make it all the way to the students local machine. We also sometimes see the student making changes to the lab locally, but the changes are not showing up on the server. Two common solutions here are right clicking on the files and selecting 'Re-sync' or just using `rm -rf` on that lab and having the student re-clone.
+This is usually a syncing issue. The lab probably cloned down properly to the Learn server, but didn't make it all the way to the student's local machine. We also sometimes see the student making changes to the lab locally, but the changes are not showing up on the server. Two common solutions here are right clicking on the files and selecting 'Re-sync' or just using `rm -rf` on that lab and having the student re-clone.
 
 ### User is seeing 'No passwd' in the Learn IDE terminal or cannot push code
 
